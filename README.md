@@ -9,7 +9,18 @@ git clone https://github.com/Creolestudios/analyze-your-meeting-reactjs-nestjs.g
 
 ```
 
-* Add credentials  
+* Create and Add credentials in .env file 
+
+```
+PORT=
+
+BASE_URL=
+
+OPEN_AI_KEY=
+
+INTERVAL=2=
+
+```
 
 ## Client Setup
 
