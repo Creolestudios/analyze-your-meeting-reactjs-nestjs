@@ -1,0 +1,207 @@
+0:0:0.0 --> 0:0:2.370
+PARTICIPANT-1  
+So just be aware that the transcription is running.
+0:0:4.690 --> 0:0:32.420
+PARTICIPANT-1  
+Basically what we'll be doing is just going through a set of questions that are based on the ISO 27,001 security framework, which is just pretty much for those who aren't aware. It's a pretty much a a guideline that helps us to be able to implement security, specifically HR security according to best practices tried and tested and proven.
+0:0:32.960 --> 0:0:40.460
+PARTICIPANT-1  
+Global standards. ACME INC, obviously is ISO certified and.
+0:0:41.500 --> 0:1:13.310
+PARTICIPANT-1  
+We this is just a check to see how we are performing to those to that certification and to be able to highlight any areas where we may need to make some changes or improvements, any gaps that we can kind of point out to be able to capture and communicate to the right stakeholders so that we can get the necessary changes put in place. So basically we'll just be going through a Q&A asking a set of questions you guys provide answers to those questions as best as you can.
+0:1:14.500 --> 0:1:44.950
+PARTICIPANT-1  
+You you we will need an expect you to please share your screen when you can provide any visual support to your response. So as you're actually providing a if Azure actually confirming the A particular control is in place. If you can maybe perhaps go to the website pull open the document or whatever the situation is to be able to visually support your claim. That would be very helpful in some cases we may ask for you to send share.
+0:1:45.770 --> 0:1:51.750
+PARTICIPANT-1  
+Particular artifacts so that we can maybe review them offline and have them for further evidence.
+0:1:52.860 --> 0:2:3.50
+PARTICIPANT-1  
+I'm gonna. I I don't have all of the Q&A in my head, so I'll be using some notes on my screen to be able to act as a crutch to help me get through that.
+0:2:3.750 --> 0:2:19.250
+PARTICIPANT-1  
+Umm, just so I don't feel weird that people are like watching me while I'm like flicking from screen to screen. I will turn off my camera. I'm feel free to do the same and unless there's anything else we can get started. PARTICIPANT-2 , I don't know if you want to add anything to that.
+0:2:20.490 --> 0:2:22.170
+PARTICIPANT-2
+Yeah, that's good. I think we can tackle.
+0:2:24.970 --> 0:2:27.920
+PARTICIPANT-1  
+All righty then. So the.
+0:2:28.800 --> 0:2:30.580
+PARTICIPANT-1  
+The control that we'll be looking at is.
+0:2:31.340 --> 0:3:0.610
+PARTICIPANT-1  
+Generally titled this HR security, the focus is really gonna be about screening prior to employment screening during that employment and screening, ending that employment and or as part of a change to a particular role while employed. And this is both refers to our badge, ACME INC employees as well as non batch employees i.e. Contractors.
+0:3:1.410 --> 0:3:31.580
+PARTICIPANT-1  
+So essentially we we wanna look at and understand the process that you guys go through when you're about to hire an individual where whether I wanna look at the screening policy, if one exists, which should be some sort of, you know, documented policy that you follow or it's outlining your approach to how you screen and what you screen, what applicable laws may be allowed within Brazil.
+0:3:31.820 --> 0:4:2.510
+PARTICIPANT-1  
+And and therefore you're screening may be based on what you're screening should be based on whatever laws and regulations that you're afforded to screen by I, I'm aware I remember with RDI back criminal background checks were not legal, but professional checks are. So if you can just give us maybe we could start the conversation by giving us some insight into what that policy looks like as a release to the.
+0:4:2.600 --> 0:4:25.660
+PARTICIPANT-1  
+The the workflow you go through as part of hiring and if you can touch on the contracts that are involved. If our security requirements are stated in the CONTRACTS prior to hiring things like do we have the employees that knowledge, those security requirements, is that acknowledgement something, is it a click on the screen? Is it a signature?
+0:4:26.600 --> 0:4:34.170
+PARTICIPANT-1  
+And in the same would apply to any contractors that come through your your responsibility as well.
+0:4:37.660 --> 0:4:43.340
+PARTICIPANT-1  
+And again, any visual as you're speaking to be able to help support the conversation will be helpful.
+0:4:45.210 --> 0:4:47.880
+PARTICIPANT-3 
+If you want, I can start uh from Argentina.
+0:4:49.400 --> 0:5:1.720
+PARTICIPANT-3 
+For as you mentioned from other country which I sorry I I didn't get what country was the policy criminal records are we are not allowed to.
+0:5:1.840 --> 0:5:3.450
+PARTICIPANT-3 
+UH-2.
+0:5:4.110 --> 0:5:34.60
+PARTICIPANT-3 
+To live a anyone out of a job opportunity just because they have a a record and besides a if we can take that on on, on our own without asking the the employee or the candidate to provide that information for us, that information belongs to the person and it has, it needs to be requested directly to the police. So we currently don't conduct that.
+0:5:34.150 --> 0:5:37.0
+PARTICIPANT-3 
+Type of criminal records.
+0:5:38.840 --> 0:6:3.890
+PARTICIPANT-3 
+We what we check for for people, is there a their labor history that is based on a government governmental web where we can have the record of all the register jobs that they had previous to joining ACME INC and regarding the.
+0:6:5.600 --> 0:6:6.230
+PARTICIPANT-1  
+Can can I?
+0:6:5.150 --> 0:6:7.390
+PARTICIPANT-3 
+The policies. Yeah, sorry.
+0:6:9.970 --> 0:6:10.570
+PARTICIPANT-3 
+Yeah, sure.
+0:6:7.830 --> 0:6:19.40
+PARTICIPANT-1  
+Is if I can ask a question on that point you made, can you share or do you have some sort of something tangible that shows that?
+0:6:19.990 --> 0:6:44.200
+PARTICIPANT-1  
+Law, which I which I I'm aware of, so I I know it's accurate, but something that shows that it's stated that this is the law. How how are you guys keeping up identifying the legal and regulatory and ethical considerations? Where is that stated that keeps you guys you know keeps that visible as a constraint that you guys need to comply with.
+0:6:44.880 --> 0:6:46.290
+PARTICIPANT-1  
+Do you have that written somewhere?
+0:6:47.240 --> 0:6:47.990
+PARTICIPANT-1  
+And again it.
+0:6:49.380 --> 0:6:49.880
+PARTICIPANT-1  
+OK.
+0:6:46.970 --> 0:6:57.840
+PARTICIPANT-4  
+We have a legal advisor that advisors of the regular regular laws that we have and all the updates so we can provide you of his.
+0:6:59.20 --> 0:7:3.380
+PARTICIPANT-4  
+Uh for written documentation from him regarding this information if you want.
+0:7:4.190 --> 0:7:5.580
+PARTICIPANT-1  
+Yes, that that would be helpful.
+0:7:6.150 --> 0:7:6.750
+PARTICIPANT-4  
+OK.
+0:7:6.620 --> 0:7:14.500
+PARTICIPANT-1  
+Something where we can see there's some sort of guidance where you guys are I being able to identify?
+0:7:15.20 --> 0:7:15.630
+PARTICIPANT-1  
+Ohh.
+0:7:17.60 --> 0:7:19.750
+PARTICIPANT-1  
+The the legalities around it.
+0:7:20.540 --> 0:7:21.50
+PARTICIPANT-1  
+OK.
+0:7:21.0 --> 0:7:21.950
+PARTICIPANT-4  
+Yes, of course.
+0:7:29.440 --> 0:7:29.830
+PARTICIPANT-4  
+Yeah.
+0:7:29.420 --> 0:7:29.830
+PARTICIPANT-3 
+Yeah.
+0:7:30.690 --> 0:7:31.250
+PARTICIPANT-5 
+Yeah.
+0:7:24.710 --> 0:7:31.710
+PARTICIPANT-1  
+And you you were you were, you were going on about the policy. And that's Argentina. Right. And the same would be.
+0:7:30.650 --> 0:7:31.850
+PARTICIPANT-3 
+Yeah, this is Argentina.
+0:7:30.670 --> 0:7:31.890
+PARTICIPANT-4  
+Yeah, this is Argentina.
+0:7:32.430 --> 0:7:37.700
+PARTICIPANT-5 
+Regarding to Brazil, we have the same restriction in terms of. Uh.
+0:7:38.300 --> 0:7:43.260
+PARTICIPANT-5 
+Um, consulting this kind of criminal records.
+0:7:44.140 --> 0:7:46.950
+PARTICIPANT-5 
+So what do you we?
+0:7:48.640 --> 0:8:18.770
+PARTICIPANT-5 
+And this is a social association. You know? Uh, because what we do in our process, we really understand what is the experience this person has and we so we do conduct process based on the competence of the person. If the person has the the technical experience, the educational experience required. So it's it's how.
+0:8:18.980 --> 0:8:26.740
+PARTICIPANT-5 
+And and we we, we we also understand how the person we ask questions to understand how the person used with.
+0:8:28.260 --> 0:8:31.810
+PARTICIPANT-5 
+Try to to to understand the more in terms of values you know like.
+0:8:31.880 --> 0:9:0.320
+PARTICIPANT-5 
+For a EDCO standards and things like that. So all we can investigate must be related to the work that person you perform. But of course we try to understand the values behind and the the the behavior standards and things like that during the interview because we don't have the legal approval for checking this kind of.
+0:9:1.540 --> 0:9:24.80
+PARTICIPANT-5 
+Record criminal or legal of the person has any issue with the justice and things like that. So this is how we perform in our days and then we I understand we should send to you what are the terms of the law that brings to us the this, this, this thing and to to to show you as I have danced, am I right?
+0:9:25.260 --> 0:9:25.830
+PARTICIPANT-1  
+Yes.
+0:9:25.980 --> 0:9:27.210
+PARTICIPANT-5 
+OK, OK.
+0:9:27.700 --> 0:9:39.70
+PARTICIPANT-1  
+Can or so in that job description and the competency checking. So it sounds like there is professional screening that's conducted.
+0:9:39.350 --> 0:9:40.480
+PARTICIPANT-5 
+Yeah. Mm-hmm.
+0:9:48.810 --> 0:9:49.290
+PARTICIPANT-5 
+Sure.
+0:9:55.550 --> 0:9:56.90
+PARTICIPANT-5 
+Yeah.
+0:9:39.620 --> 0:9:59.480
+PARTICIPANT-1  
+Uh, we went through the interviews are are you able to demonstrate an example? Can you share with us? Can you share your screen or send us something that allows us to see the professional screening that's taking place prior to hiring and and while you're doing that, that screening you mentioned?
+0:10:6.900 --> 0:10:7.480
+PARTICIPANT-5 
+Mm-hmm.
+0:10:11.60 --> 0:10:11.590
+PARTICIPANT-5 
+Yeah.
+0:10:1.0 --> 0:10:13.260
+PARTICIPANT-1  
+Ensuring that the competency of the candidate so that would also mean that there is a job description that you guys have defined.
+0:10:13.820 --> 0:10:14.530
+PARTICIPANT-5 
+Umm.
+0:10:14.340 --> 0:10:16.240
+PARTICIPANT-1  
+Where you're considering.
+0:10:16.660 --> 0:10:19.860
+PARTICIPANT-1  
+Umm the the the role?
+0:10:27.190 --> 0:10:27.790
+PARTICIPANT-5 
+Mm-hmm.
+0:10:32.280 --> 0:10:32.840
+PARTICIPANT-5 
+Umm.
