@@ -3,7 +3,7 @@ Have a tool that can be included in your every google meet or zoom meeting and i
 
 
 
-## AI Meeting Insights App (TranscriptGpt)
+## AI Meeting Insights App 
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ Have a tool that can be included in your every google meet or zoom meeting and i
 
 ## 3. Getting Started
 
-To get started with the TranscriptGpt App, follow these steps:
+To get started with the AI MeetGpt App, follow these steps:
 
 ### Prerequisites
 
@@ -92,9 +92,9 @@ Make sure you have the following installed:
 The project follows a modular and organized structure to enhance readability, maintainability, and scalability. Key components include:
 
 - **ReactJs** The main structure of the web page designed using React Framework.
-- **NodeJs** Backend Logic written in nodejs, Logic for handling user interactions, getting transcript , and giving summary as Situations, Challenges, Risks, Impacts and Solutions.
-- **HnsWlib Vector DB** Storing transcript in db to efficiently get resault based on similarity search Algorithm. 
-- **OpenAI** Using OpenAI api key to get summary of Situations, Challenges, Risks, Impacts and Solutions from transcript.
+- **NodeJs** Backend Logic written in nodejs, Logic for handling user interactions, getting AI Meet , and giving summary as Situations, Challenges, Risks, Impacts and Solutions.
+- **HnsWlib Vector DB** Storing AI Meet in db to efficiently get resault based on similarity search Algorithm. 
+- **OpenAI** Using OpenAI api key to get summary of Situations, Challenges, Risks, Impacts and Solutions from AI Meet.
 
 ## 5. Dependencies
 
@@ -105,17 +105,17 @@ The project follows a modular and organized structure to enhance readability, ma
 
 ## 6. Deployment
 
-The TranscriptGpt App is deployed and accessible online. You can use the following link to access the application: [AI Meeting App](https://www.creole.tech/transcriptgpt/)
+The AI MeetGpt App is deployed and accessible online. You can use the following link to access the application: [AI Meeting App](https://www.creole.tech/transcriptgpt/)
 
 ## 7. Usage
 
-1. **Adding a Transcript:**
-   - Add transcript manually or fetch from meeting
+1. **Adding a AI Meet:**
+   - Add AI Meet manually or fetch from meeting
 
 2. **Selecting Time Interval:**
    - Select/Clieck on time interval for which you want to get summary for.
 
-3. **Selecting Keywords from Transcript:**
+3. **Selecting Keywords from AI Meet:**
    - Click the "submit" button after selecting Keywords.
 
 4. **Get Situations:**
